@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(58, 0, 55);
+    color: rgb(225, 0, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+.align{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.minha-div {
+    padding: 25px;
+    border-radius: 70px;
+    background-color: #f0f0f02d; 
+}
+
+
+
+
+
